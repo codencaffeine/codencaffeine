@@ -1,5 +1,4 @@
-### Hi there 👋, I am a machine learning enthusiast who is currently intrigued by Generative AI and its applications. GANs and Diffusion models are my favourite. I love to write blogs of random things I learn or to publish from my old notes, hop on to https://iamaishwarya.com/blog/page/2/index.html to learn more. Avid Python and C++ Programmer, well acquainted with native cloud offerings(AWS and Azure), enjoys chess, cooking and oil painting.
-
+### Hi there 👋, I am a machine learning enthusiast, who loves programming in python and shell. I have some experience with c++ and currently intrigued by Generative AI. I have experience in AWS, Linux, ML, Docker, Kubernetes, and CI/CD pipelining.
 
 <!--
 **codencaffeine/codencaffeine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
